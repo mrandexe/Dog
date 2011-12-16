@@ -5,5 +5,7 @@
     <string name="str_scr_watch">监控</string>
     <string name="str_scr_login">设置用户</string>
     <string name="str_id_login">登陆</string>
+    <string name="btn_id_login">登录</string>
+    <string name="str_id_app">Dog</string>
 
 </resources>
