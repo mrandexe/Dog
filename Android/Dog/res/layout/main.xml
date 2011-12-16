@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/str_scr_login"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/edt_id_name"
+        android:layout_width="286dp"
+        android:layout_height="wrap_content" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/edt_id_pass"
+        android:layout_width="284dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword" />
+
+    <CheckBox
+        android:id="@+id/checkBox1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str_id_rempass" />
+
+    <Button
+        android:id="@+id/btn_id_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str_id_login" />
+
+</LinearLayout>

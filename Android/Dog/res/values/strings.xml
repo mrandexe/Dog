@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="str_id_rempass">记住密码</string>
+    <string name="str_scr_watch">监控</string>
+    <string name="str_scr_login">设置用户</string>
+    <string name="str_id_login">登陆</string>
+
+</resources>
